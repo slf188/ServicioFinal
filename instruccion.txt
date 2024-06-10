@@ -1,0 +1,21 @@
+orden:
+1. biblioteca de clases
+accesodatos
+agregar archivo ado net servicio entities
+cambiar clases tablas a list
+2. biblioteca de clases
+datos
+agregar referencia de accesodatos y ef.dll ef.sqlserver.dll
+crear interfaz idatos y para cada tabla clase datos
+3. biblioteca de clases
+negocio
+referencia de accesodatos y datos
+para cada tabla crear clase negocio
+4. aplicación web asp net
+apirest tipo api web
+referencia a accesodatos, datos y negocio
+copiar connectionstring de app.config en web.config
+para cada clase crear controller
+5. postman
+probar con localhost:6969/api/Tabla
+get, post y los demás métodos
