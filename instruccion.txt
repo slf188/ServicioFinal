@@ -16,6 +16,7 @@ apirest tipo api web
 referencia a accesodatos, datos y negocio
 copiar connectionstring de app.config en web.config
 para cada clase crear controller
+establecer como proyecto de inicio
 5. postman
 probar con localhost:6969/api/Tabla
 get, post y los demás métodos
