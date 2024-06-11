@@ -36,21 +36,21 @@ INSERT INTO Conductores (ID_Conductor, Nombre, Apellido, Cedula, ConduTelefono) 
 
 -- Insertar 15 registros en la tabla Rutas con 3 imágenes aleatorias
 INSERT INTO Rutas (ID_Ruta, Origen, Destino, Distancia, Duracion_Estimada, Foto) VALUES
-(1, 'Ciudad A', 'Ciudad B', 120.50, '02:30:00', 'C:\Users\evest\Documents\ServicioFinal\sql\1.jpeg'),
-(2, 'Ciudad C', 'Ciudad D', 95.00, '01:45:00', 'C:\Users\evest\Documents\ServicioFinal\sql\2.jpeg'),
-(3, 'Ciudad E', 'Ciudad F', 150.75, '03:00:00', 'C:\Users\evest\Documents\ServicioFinal\sql\3.jpeg'),
-(4, 'Ciudad G', 'Ciudad H', 200.20, '04:15:00', 'C:\Users\evest\Documents\ServicioFinal\sql\1.jpeg'),
-(5, 'Ciudad I', 'Ciudad J', 80.40, '01:30:00', 'C:\Users\evest\Documents\ServicioFinal\sql\2.jpeg'),
-(6, 'Ciudad K', 'Ciudad L', 110.90, '02:00:00', 'C:\Users\evest\Documents\ServicioFinal\sql\3.jpeg'),
-(7, 'Ciudad M', 'Ciudad N', 175.60, '03:30:00', 'C:\Users\evest\Documents\ServicioFinal\sql\1.jpeg'),
-(8, 'Ciudad O', 'Ciudad P', 130.80, '02:45:00', 'C:\Users\evest\Documents\ServicioFinal\sql\2.jpeg'),
-(9, 'Ciudad Q', 'Ciudad R', 140.55, '03:10:00', 'C:\Users\evest\Documents\ServicioFinal\sql\3.jpeg'),
-(10, 'Ciudad S', 'Ciudad T', 90.30, '01:40:00', 'C:\Users\evest\Documents\ServicioFinal\sql\1.jpeg'),
-(11, 'Ciudad U', 'Ciudad V', 160.70, '03:20:00', 'C:\Users\evest\Documents\ServicioFinal\sql\2.jpeg'),
-(12, 'Ciudad W', 'Ciudad X', 115.25, '02:10:00', 'C:\Users\evest\Documents\ServicioFinal\sql\3.jpeg'),
-(13, 'Ciudad Y', 'Ciudad Z', 100.85, '01:50:00', 'C:\Users\evest\Documents\ServicioFinal\sql\1.jpeg'),
-(14, 'Ciudad AA', 'Ciudad BB', 180.95, '03:40:00', 'C:\Users\evest\Documents\ServicioFinal\sql\2.jpeg'),
-(15, 'Ciudad CC', 'Ciudad DD', 75.15, '01:25:00', 'C:\Users\evest\Documents\ServicioFinal\sql\3.jpeg');
+(1, 'Ciudad A', 'Ciudad B', 120.50, '02:30:00', 'C:\Users\LuisVallejo\Documents\sql\1.jpeg'),
+(2, 'Ciudad C', 'Ciudad D', 95.00, '01:45:00', 'C:\Users\LuisVallejo\Documents\sql\2.jpeg'),
+(3, 'Ciudad E', 'Ciudad F', 150.75, '03:00:00', 'C:\Users\LuisVallejo\Documents\sql\3.jpeg'),
+(4, 'Ciudad G', 'Ciudad H', 200.20, '04:15:00', 'C:\Users\LuisVallejo\Documents\sql\1.jpeg'),
+(5, 'Ciudad I', 'Ciudad J', 80.40, '01:30:00', 'C:\Users\LuisVallejo\Documents\sql\2.jpeg'),
+(6, 'Ciudad K', 'Ciudad L', 110.90, '02:00:00', 'C:\Users\LuisVallejo\Documents\sql\3.jpeg'),
+(7, 'Ciudad M', 'Ciudad N', 175.60, '03:30:00', 'C:\Users\LuisVallejo\Documents\sql\1.jpeg'),
+(8, 'Ciudad O', 'Ciudad P', 130.80, '02:45:00', 'C:\Users\LuisVallejo\Documents\sql\2.jpeg'),
+(9, 'Ciudad Q', 'Ciudad R', 140.55, '03:10:00', 'C:\Users\LuisVallejo\Documents\sql\3.jpeg'),
+(10, 'Ciudad S', 'Ciudad T', 90.30, '01:40:00', 'C:\Users\LuisVallejo\Documents\sql\1.jpeg'),
+(11, 'Ciudad U', 'Ciudad V', 160.70, '03:20:00', 'C:\Users\LuisVallejo\Documents\sql\2.jpeg'),
+(12, 'Ciudad W', 'Ciudad X', 115.25, '02:10:00', 'C:\Users\LuisVallejo\Documents\sql\3.jpeg'),
+(13, 'Ciudad Y', 'Ciudad Z', 100.85, '01:50:00', 'C:\Users\LuisVallejo\Documents\sql\1.jpeg'),
+(14, 'Ciudad AA', 'Ciudad BB', 180.95, '03:40:00', 'C:\Users\LuisVallejo\Documents\sql\2.jpeg'),
+(15, 'Ciudad CC', 'Ciudad DD', 75.15, '01:25:00', 'C:\Users\LuisVallejo\Documents\sql\3.jpeg');
 
 
 -- Insertar datos en la tabla Horarios
